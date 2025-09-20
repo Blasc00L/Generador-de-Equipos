@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Superman",
+    "faccion": "DC - Justice League",
+    "valor": 98,
+    "imageUrl": "https://picsum.photos/seed/Superman/400/300"
+  },
+  {
+    "id": "2",
+    "name": "Batman",
+    "faccion": "DC - Bat-Family",
+    "valor": 80,
+    "imageUrl": "https://picsum.photos/seed/Batman/400/300"
+  },
+  {
+    "id": "3",
+    "name": "Wonder Woman",
+    "faccion": "DC - Justice League",
+    "valor": 92,
+    "imageUrl": "https://picsum.photos/seed/Wonder-Woman/400/300"
+  },
+  {
+    "id": "4",
+    "name": "The Flash",
+    "faccion": "DC - Justice League",
+    "valor": 85,
+    "imageUrl": "https://picsum.photos/seed/The-Flash/400/300"
+  },
+  {
+    "id": "5",
+    "name": "Captain America",
+    "faccion": "Marvel - Avengers",
+    "valor": 75,
+    "imageUrl": "https://picsum.photos/seed/Captain-America/400/300"
+  },
+  {
+    "id": "6",
+    "name": "Iron Man",
+    "faccion": "Marvel - Avengers",
+    "valor": 90,
+    "imageUrl": "https://picsum.photos/seed/Iron-Man/400/300"
+  },
+  {
+    "id": "7",
+    "name": "Thor",
+    "faccion": "Marvel - Avengers",
+    "valor": 95,
+    "imageUrl": "https://picsum.photos/seed/Thor/400/300"
+  },
+  {
+    "id": "8",
+    "name": "Spider-Man",
+    "faccion": "Marvel - Spider-Verse",
+    "valor": 78,
+    "imageUrl": "https://picsum.photos/seed/Spider-Man/400/300"
+  }
